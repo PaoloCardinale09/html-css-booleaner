@@ -82,6 +82,14 @@ th {
    
 }
 
+.cella-sinistra , .cella-centrale{
+    width: 25%;
+}
+
+.cella-destra {
+    width:50%;
+}
+
 .celeste{
     background-color: #b1e5f2;
 }
