@@ -46,6 +46,24 @@ h1 {
     margin-top: 20px;
 }
 
-.tim img{
+.tim img { 
     height: 500px;
+}
+
+#photo-credits {
+    font-size: 12px;
+}
+
+.articolo {
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+ul {
+    margin-left: 10px;
 }
