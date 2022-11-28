@@ -78,11 +78,18 @@ th {
     text-align: left;
     background-color: #1fa9e5;
     color: white;
-   
 }
 
+.cella-sinistra , .cella-centrale{
+    width: 25%;
+}
+
+.cella-destra {
+    width:50%;
+}
 .celeste{
     background-color: #b1e5f2;
+    width: 30px;
 }
 
 .extra {
