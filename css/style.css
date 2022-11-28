@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 
 header {
@@ -15,4 +16,28 @@ header {
     width: 275px;
     margin-top: 60px;
     margin-left: 10px;  
+}
+
+main {
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 55px;
+    margin-top: 20px;
+    
+}
+
+.credits {
+    color: #7e7e7e;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+#special {
+    color: #24aae5;
+}
+
+#data {
+    color: #7e7e7e;
 }
